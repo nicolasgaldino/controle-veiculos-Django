@@ -1,0 +1,4 @@
+db.sqlite3
+controle_veiculos/__pycache__
+veiculos/__pycache__
+veiculos/migrations
